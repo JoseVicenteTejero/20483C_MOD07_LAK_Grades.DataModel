@@ -4,6 +4,7 @@ JOSE VICENTE TEJERO CALDERERA - 28/10/2020
 
 RESUMEN:
 Build and generate an EDM by using a table from the SchoolGradesDB database
+Review the generated code
 
 PROBLEMAS:
 Ninguno
